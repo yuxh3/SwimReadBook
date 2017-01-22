@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#999ca3</color>
+    <color name="colorPrimaryDark">#a5a8ad</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 自定义圆的配置颜色-->
+    <color name="red">#FF4081</color>
+    <color name="withe">#ffffff</color>
+</resources>
